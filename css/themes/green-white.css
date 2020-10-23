@@ -1,14 +1,16 @@
 /* Theme */
 
 main {
-	background: #43A047;
-	color: #FAFAFA;
+	background:black;
+	color:red;
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color:red;
 }
 
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+.intro { 
+	font-family: 'Times New Roman', Times, serif;}
