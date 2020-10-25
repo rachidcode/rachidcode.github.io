@@ -1,6 +1,6 @@
 /* Typography */
 body {
-	background-image: url(https://i0.wp.com/bdmpublications.com/wp-content/uploads/2019/05/history-of-coding-1.jpg?resize=780%2C405&ssl=1);
+	background-image: url(https://phoneky.co.uk/thumbs/screensavers/down/movies/20060215200233.gif);
 }
 html {
 	font-family: 'Roboto', sans-serif;
@@ -46,13 +46,15 @@ main {
 }
 
 main > .intro { 
+	font-family: 'Pacifico', cursive;
 	color: white;
-	font-family: 'Reem Kufi', sans-serif;
+	
 	font-size: 3.75em;
 	font-weight: 600;
 }
 
 main > .tagline {
+	font-family: 'Pacifico', cursive;
 	color: white;
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
